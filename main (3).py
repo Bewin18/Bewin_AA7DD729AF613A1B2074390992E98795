@@ -1,4 +1,4 @@
- # Define the base class player
+# Define the base class player
 class Player:
   def play(self):
     print("The player is playing cricket.")
